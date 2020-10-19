@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 38.789 s <<< FAILURE! - in TestSuite
+feature(CucmberOptions.TestRunner)  Time elapsed: 36.081 s  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.AssertionError: null
+Caused by: java.lang.AssertionError: null
+
